@@ -1,0 +1,17 @@
+
+    body {background-color:black; font-family: arial; color:white}
+    h2{color:grey; font-family: verdana}
+.blocktext{
+    margin-left: 50px;
+    margin-right: auto;
+}
+.maindiv{
+    background-color: white;
+    color:rgb(0, 0, 0);
+    width: 400px;
+   
+    padding:20px;
+    border-radius:25px;
+    margin : auto;
+    text-align : left;
+}
